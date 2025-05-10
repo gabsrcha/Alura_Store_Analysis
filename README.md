@@ -26,7 +26,7 @@ A análise inclui:
 ## 📊 Visualizações e Insights
 
 ### Gráfico de Avaliações por Loja
-![Gráfico de Avaliações](https://github.com/gabsrcha/Alura_Store_Analysis/assets/fatur.png)
+![Gráfico de Avaliações](https://github.com/gabsrcha/Alura_Store_Analysisraw/main/assets/fatur.png)
 
 - **Loja 3** tem a maior média de avaliações (4.05), enquanto a **Loja 1** apresenta a menor média (3.98).
 
