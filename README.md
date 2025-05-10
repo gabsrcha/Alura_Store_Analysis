@@ -26,19 +26,13 @@ A análise inclui:
 ## 📊 Visualizações e Insights
 
 ### Gráfico de Avaliações por Loja
-![Gráfico de Avaliações](https://github.com/gabsrcha/Alura_Store_Analysis/raw/main/assets/fatur.png)
+![Gráfico de Avaliações](https://github.com/gabsrcha/Alura_Store_Analysis/raw/main/assets/avali.png)
 
 - **Loja 3** tem a maior média de avaliações (4.05), enquanto a **Loja 1** apresenta a menor média (3.98).
 
 ### Faturamento Total
 - **Loja 1** lidera em faturamento, enquanto a **Loja 4** apresenta o menor rendimento.
 
-### Frete Médio
-- A **Loja 4** possui o maior custo de frete, dificultando a atração de clientes.
-
-## 📝 Relatório Final
-
-O relatório detalhado sobre as análises e a recomendação de venda da loja pode ser acessado [aqui](https://github.com/gabsrcha/Alura_Store_Analysis/blob/main/relatorio_analise_lojas.md).
 
 ## 📂 Estrutura do Projeto
 
